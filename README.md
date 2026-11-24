@@ -1,7 +1,6 @@
 # Angebot ungleich Nachfrage: Normalisieren oder Teilbedienung – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-ungleiche-mengen-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-ungleiche-mengen-demo.streamlit.app/)**
 
 Demo der Reihe **optimaler-transport** („Optimaler Transport: Verteilungen ineinander verschieben“) in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“. Sie setzt an der Annahme an, die die Wurzel der Reihe („Vom Zuordnen zum Transportieren“) stehen lässt: *Angebot und Nachfrage sind in der Summe gleich.* Diese Demo hebt sie auf: Bestand und Nachfrage dürfen verschieden sein, und die Rechnung muss sagen, was mit dem Rest geschieht (Teilbedienung, Strafe, Ausreißer). Vehikel ist eine Straße mit drei Lagern und 30 Kunden (Kosten = Weg).
 
